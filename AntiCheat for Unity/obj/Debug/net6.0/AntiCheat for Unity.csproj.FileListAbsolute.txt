@@ -1,0 +1,15 @@
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\bin\Debug\net6.0\AntiCheat for Unity.exe
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\bin\Debug\net6.0\AntiCheat for Unity.deps.json
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\bin\Debug\net6.0\AntiCheat for Unity.runtimeconfig.json
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\bin\Debug\net6.0\AntiCheat for Unity.dll
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\bin\Debug\net6.0\AntiCheat for Unity.pdb
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.csproj.AssemblyReference.cache
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.AssemblyInfoInputs.cache
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.AssemblyInfo.cs
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.csproj.CoreCompileInputs.cache
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.dll
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\refint\AntiCheat for Unity.dll
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.pdb
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\AntiCheat for Unity.genruntimeconfig.cache
+D:\csharp fds\AntiCheat for Unity\AntiCheat for Unity\obj\Debug\net6.0\ref\AntiCheat for Unity.dll
